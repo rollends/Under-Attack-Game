@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UnderAttack">
+</Property><Property Name="Solution File" Value="C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\UnderAttack.sln">
+</Property><Property Name="Date" Value="January-14-12">
+</Property><Property Name="Time" Value="19:27:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj" Description="Project file successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\UnderAttack.csproj">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj.user" Description="Project user file successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\UnderAttack.csproj.user">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="GameUnit.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\GameUnit.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Player.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Program.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Sprite.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Sprite.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.cs" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\UnderAttack.cs">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Properties\app.manifest" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\UnderAttack_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="Game.ico" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\Game.ico">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="GameThumbnail.png" Description="File successfully backed up as C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\Backup\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UnderAttack" Source="UnderAttack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="UnderAttack" Source="UnderAttack.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>

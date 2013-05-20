@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>alertFont.spritefont</Source>
+      <Name>alertFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\alertFont.xnb</Output>
+      <Time>2012-01-14T19:59:33.3792763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mainFont.spritefont</Source>
+      <Name>mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\mainFont.xnb</Output>
+      <Time>2012-01-14T19:59:33.392277-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\time.fx</Source>
+      <Name>Effects\time</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Effects\time.xnb</Output>
+      <Time>2012-01-14T22:12:01.735813-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\wave.fx</Source>
+      <Name>Effects\wave</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Effects\wave.xnb</Output>
+      <Time>2012-01-14T20:05:22.154849-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Environment\background.png</Source>
+      <Name>Environment\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Environment\background.xnb</Output>
+      <Time>2012-01-14T20:00:21.0892025-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Environment\Cloud1.png</Source>
+      <Name>Environment\Cloud1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Environment\Cloud1.xnb</Output>
+      <Time>2012-01-14T20:00:21.0922027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Environment\Tree.png</Source>
+      <Name>Environment\Tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Environment\Tree.xnb</Output>
+      <Time>2012-01-14T20:00:21.0942028-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\boomAnim.png</Source>
+      <Name>Sprites\boomAnim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Sprites\boomAnim.xnb</Output>
+      <Time>2012-01-14T20:00:52.9227509-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\bullet.png</Source>
+      <Name>Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Sprites\bullet.xnb</Output>
+      <Time>2012-01-14T20:00:52.9367517-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy.png</Source>
+      <Name>Sprites\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Sprites\Enemy.xnb</Output>
+      <Time>2012-01-14T20:00:52.9387518-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\SpaceShip.png</Source>
+      <Name>Sprites\SpaceShip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Sprites\SpaceShip.xnb</Output>
+      <Time>2012-01-14T20:00:52.9407519-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Other\btnRestartGame.bmp</Source>
+      <Name>Other\btnRestartGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Other\btnRestartGame.xnb</Output>
+      <Time>2012-01-14T20:01:11.8696746-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Other\menuBG.bmp</Source>
+      <Name>Other\menuBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Other\menuBG.xnb</Output>
+      <Time>2012-01-14T20:01:11.8726747-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\uielement.png</Source>
+      <Name>Menu\uielement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Menu\uielement.xnb</Output>
+      <Time>2012-01-15T17:52:23.1492724-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\uielement_pressed.png</Source>
+      <Name>Menu\uielement_pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Menu\uielement_pressed.xnb</Output>
+      <Time>2012-01-15T17:52:23.1512725-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\explosion-02.wav</Source>
+      <Name>Sound Effects\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\Sound Effects\explosion.xnb</Output>
+      <Time>2012-01-14T20:00:39.1240827-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\UnderAttackContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\UnderAttackContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rollen\Documents\Visual Studio 2010\Projects\C#\Games\Under Attack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-07T18:14:44.8375388-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
